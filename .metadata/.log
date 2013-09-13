@@ -1,0 +1,27 @@
+!SESSION 2013-09-07 12:57:38.017 -----------------------------------------------
+eclipse.buildId=3.3.0.201307091644-RELEASE-e43
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 0 0 2013-09-07 12:58:30.696
+!MESSAGE Result of converting legacy STS 2.x workspace preferences to 3.x
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2013-09-07 12:58:30.696
+!MESSAGE Converted legacy STS plugin preferences
+!SUBENTRY 1 unknown 0 0 2013-09-07 12:58:30.696
+!MESSAGE OK
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2013-09-07 12:58:30.696
+!MESSAGE Converted legacy Roo plugin state locations
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2013-09-07 12:58:30.696
+!MESSAGE Converted legacy STS plugin state locations
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2013-09-07 13:30:53.838
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin com.vmware.vfabric.ide.eclipse.tcserver.core.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-09-07 13:33:37.188
+!MESSAGE The POM for commons-collections:commons-collections:jar:3.2.1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-09-07 13:33:40.698
+!MESSAGE The POM for jstl:jstl:jar:1.2 is missing, no dependency information available
